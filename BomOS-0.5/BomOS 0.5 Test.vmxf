@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 d1 3a 81 ca c0 1a 78-f0 b0 d8 b5 13 62 66 14</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">BomOS 0.5 Test.vmx</vmxPathName></VM></Foundry>
